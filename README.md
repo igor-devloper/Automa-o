@@ -1,4 +1,4 @@
-# Automa-o
+# Automacao
 Projeto de Automção de Tarefas
 #  Ìcones
 
